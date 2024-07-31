@@ -20,11 +20,12 @@ The project uses the Jigsaw Toxic Comment Classification Challenge dataset from 
 ## Model Performance
 ### Model 1 (code.py)
 Accuracy: 93.75%  
-Precision: 50%
-
+Precision: 50%  
+Layers in neural network: 7
 ### Model 2 (codev2.py)
 Accuracy: 98.95%  
-Precision: 75%
+Precision: 75%  
+Layers in neural network: 11  
 
 The accuracy and precision can be further improved by adjusting the layers in the model architecture.
 
